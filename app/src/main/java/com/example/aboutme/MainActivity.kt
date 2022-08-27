@@ -41,6 +41,9 @@ class MainActivity : AppCompatActivity() {
             doneButton.visibility = View.GONE
             content.text = content.text.toString().replace("THENAME", theUser!!.name ?: "defaultName")
             content.text = content.text.toString().replace("THEAGE", theUser!!.age.toString() ?: "0")
+
+            nameField.text.clear()
+            ageField.text.clear()
         }
 
     }
