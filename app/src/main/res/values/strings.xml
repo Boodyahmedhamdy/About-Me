@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AboutMe</string>
+    <string name="about_me_application">About me Application</string>
+    <string name="what_is_your_name">what is your name</string>
+    <string name="create_about_me">create about me</string>
+    <string name="content_about_me">hello, my name is THENAME \n\n i am THEAGE years old \n\n i love playing football and programming in kotlin too Lorem ipsum dolor sit amet, consectetur adipisicing elit. At atque consequatur cumque dolore eaque earum eius id illum modi nesciunt officiis perspiciatis, possimus quae repellat repudiandae sapiente sint tempora temporibus.</string>
+    <string name="what_is_your_age">what is your age</string>
 </resources>
